@@ -27,10 +27,11 @@ h2 {
 
 h3 {
   font-size: 21px;
+  font-weight: normal;
   color: gray;
 }
 
-h5 {
+h5, a {
   color: aquamarine;
   font-size: 16px;
 }
